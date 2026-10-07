@@ -88,6 +88,6 @@ attachment as a PDF:
 1. Candidate Full Name :Twinkle Trivedi
 1. Name of assessment completed (Front End, Back End, React Native, Mobile -frontend reactnative
 iOS, Mobile - Android)
-2. Github Link for Assessment
-3. Link to the Screen recording of your submission. Must be a shared public link
-4. Log of time spent on assessment 4hours with cursor ai
+2. Github Link for Assessment : https://github.com/TwinkleTrivedi/storm-chaser-react-native
+3. Link to the Screen recording of your submission. Must be a shared public link 
+4. Log of time spent on assessment 4 hours
